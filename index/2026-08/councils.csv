@@ -1,6 +1,6 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
 Camden,London,3325,536,3645,550,3511,3214,1117.2,0.839,0.08,335,0
-Hackney,London,2379,376,3243,600,2111,1929,1500.2,0.842,0.117,200,0
+Hackney,London,2379,376,3243,600,2111,1929,1500.2,0.842,0.117,201,0
 Islington,London,1896,277,2342,361,2339,2160,613.8,0.854,0.089,185,0
 Westminster,London,1454,695,1767,856,1651,1567,730.7,0.522,0.18,124,0
 Birmingham,West Midlands,1330,1320,1606,1591,1525,1413,529.4,0.008,0.137,96,0
@@ -44,7 +44,7 @@ Cheshire East,North West,292,292,308,308,319,304,126.1,0.0,0.151,36,0
 Doncaster,Yorkshire and The Humber,292,292,318,318,248,230,96.3,0.0,0.089,8,0
 North Yorkshire,Yorkshire and The Humber,292,281,396,360,362,344,123.1,0.038,0.154,23,0
 Havering,London,285,285,329,329,314,297,119.9,0.0,0.151,14,8
-Salford,North West,270,249,323,304,347,325,115.0,0.078,0.196,27,0
+Salford,North West,270,249,323,304,347,325,115.0,0.078,0.196,28,0
 Greenwich,London,268,267,295,287,404,374,109.5,0.004,0.112,27,0
 Milton Keynes,South East,268,267,323,323,329,311,112.4,0.004,0.179,19,0
 Stockport,North West,268,248,294,267,285,271,111.4,0.075,0.16,22,0
