@@ -1,8 +1,8 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
-Camden,London,3325,536,3645,550,3511,3214,1117.2,0.839,0.08,349,0
+Camden,London,3325,536,3645,550,3511,3214,1117.2,0.839,0.08,350,0
 Hackney,London,2379,376,3243,600,2111,1929,1500.2,0.842,0.117,210,0
-Islington,London,1896,277,2342,361,2339,2160,613.8,0.854,0.089,200,0
-Westminster,London,1454,695,1767,856,1651,1567,730.7,0.522,0.18,130,0
+Islington,London,1896,277,2342,361,2339,2160,613.8,0.854,0.089,201,0
+Westminster,London,1454,695,1767,856,1651,1567,730.7,0.522,0.18,131,0
 Birmingham,West Midlands,1330,1320,1606,1591,1525,1413,529.4,0.008,0.137,96,0
 Manchester,North West,1095,894,1343,1087,1442,1342,392.6,0.184,0.106,109,0
 Newham,London,873,840,1060,1021,884,808,310.9,0.038,0.069,51,0
@@ -55,7 +55,7 @@ Merton,London,250,233,326,305,315,297,102.1,0.068,0.128,14,0
 Nottingham,East Midlands,250,250,294,294,307,287,102.7,0.0,0.2,13,0
 Cheshire West and Chester,North West,246,238,224,219,197,187,107.3,0.033,0.171,23,0
 County Durham,North East,243,243,287,287,328,311,99.7,0.0,0.115,18,0
-Wandsworth,London,243,243,348,348,310,290,100.9,0.0,0.111,14,0
+Wandsworth,London,243,243,348,348,310,290,100.9,0.0,0.111,15,0
 Oldham,North West,238,238,291,291,245,229,93.6,0.0,0.13,19,0
 Belfast,Northern Ireland,236,236,238,238,304,281,94.8,0.0,0.093,17,0
 Walsall,West Midlands,232,232,222,222,265,247,93.6,0.0,0.134,19,0
@@ -68,7 +68,7 @@ Slough,South East,210,210,284,284,286,267,85.5,0.0,0.095,10,0
 "Herefordshire, County of",West Midlands,209,92,302,123,639,611,86.2,0.56,0.134,24,0
 Newcastle upon Tyne,North East,209,209,240,240,231,216,82.9,0.0,0.105,11,0
 Brighton and Hove,South East,208,208,227,227,278,264,86.8,0.0,0.13,15,0
-Cornwall,South West,206,206,244,244,233,222,87.8,0.0,0.155,14,0
+Cornwall,South West,206,206,244,244,233,222,87.8,0.0,0.155,15,0
 Derby,East Midlands,204,187,281,264,261,245,87.2,0.083,0.152,5,0
 Wirral,North West,203,203,229,229,220,208,85.4,0.0,0.128,16,0
 Wiltshire,South West,202,202,248,248,258,247,85.1,0.0,0.114,24,0
@@ -98,7 +98,7 @@ Solihull,West Midlands,155,149,187,177,152,145,68.2,0.039,0.168,14,0
 Sutton,London,155,155,180,180,164,156,65.9,0.0,0.11,11,0
 Northumberland,North East,154,154,134,134,151,143,65.3,0.0,0.11,14,0
 South Gloucestershire,South West,151,151,174,174,181,173,63.3,0.0,0.139,13,0
-Southend-on-Sea,East of England,149,147,174,170,174,166,63.3,0.013,0.148,13,2
+Southend-on-Sea,East of England,149,147,174,170,174,166,63.3,0.013,0.148,14,2
 Windsor and Maidenhead,South East,149,149,157,157,155,148,60.7,0.0,0.121,20,0
 Calderdale,Yorkshire and The Humber,148,148,155,155,130,122,61.4,0.0,0.115,7,0
 Richmond upon Thames,London,147,147,183,183,184,175,63.4,0.0,0.136,11,0
@@ -132,7 +132,7 @@ Dartford,South East,112,109,170,161,152,144,47.5,0.027,0.134,13,0
 Plymouth,South West,112,112,114,114,135,127,46.4,0.0,0.089,11,0
 Norwich,East of England,111,111,152,152,111,106,47.3,0.0,0.126,7,0
 St Albans,East of England,111,111,120,120,115,110,48.1,0.0,0.144,8,0
-Swindon,South West,111,111,133,133,169,159,47.2,0.0,0.18,5,0
+Swindon,South West,111,111,133,133,169,159,47.2,0.0,0.18,6,0
 Newport,Wales,110,110,122,122,116,109,42.6,0.0,0.109,6,0
 Ipswich,East of England,109,69,156,118,149,138,43.2,0.367,0.083,5,0
 Rhondda Cynon Taf,Wales,109,100,124,122,109,103,40.9,0.083,0.073,11,0
@@ -189,7 +189,7 @@ Bath and North East Somerset,South West,81,81,93,93,87,83,34.2,0.0,0.086,4,0
 Nuneaton and Bedworth,West Midlands,81,81,89,89,98,92,31.9,0.0,0.062,5,0
 Spelthorne,South East,81,81,109,109,95,90,33.7,0.0,0.136,5,0
 South Oxfordshire,South East,80,80,96,96,88,84,34.7,0.0,0.05,2,0
-Swale,South East,80,80,105,105,84,80,33.2,0.0,0.113,10,0
+Swale,South East,80,80,105,105,84,80,33.2,0.0,0.113,11,0
 Horsham,South East,79,79,104,104,100,95,34.1,0.0,0.101,6,0
 Winchester,South East,79,79,99,99,119,114,33.3,0.0,0.139,5,0
 Wychavon,West Midlands,79,79,81,81,83,79,35.5,0.0,0.228,13,0
@@ -229,7 +229,7 @@ East Staffordshire,West Midlands,65,65,70,70,85,79,26.0,0.0,0.062,5,0
 Rother,South East,65,65,70,70,68,65,26.7,0.0,0.185,4,0
 South Ribble,North West,65,65,84,84,83,79,27.4,0.0,0.138,5,0
 South Tyneside,North East,65,65,98,98,67,63,27.0,0.0,0.123,4,0
-Exeter,South West,64,60,83,79,75,71,27.3,0.062,0.109,3,0
+Exeter,South West,64,60,83,79,75,71,27.3,0.062,0.109,4,0
 Rochford,East of England,64,64,62,62,51,49,27.5,0.0,0.156,8,1
 Darlington,North East,63,63,91,91,67,63,25.5,0.0,0.127,3,0
 Eastbourne,South East,63,60,103,87,98,93,28.4,0.048,0.206,7,0
