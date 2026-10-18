@@ -1,7 +1,7 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
-Camden,London,3645,550,3526,503,3196,2891,1242.8,0.849,0.086,310,0
+Camden,London,3645,550,3526,503,3196,2891,1242.8,0.849,0.086,311,0
 Hackney,London,3243,600,2953,491,2363,2134,2034.6,0.815,0.131,204,0
-Islington,London,2342,361,2278,402,2330,2129,754.8,0.846,0.089,181,0
+Islington,London,2342,361,2278,402,2330,2129,754.8,0.846,0.089,182,0
 Westminster,London,1767,856,1658,771,1728,1630,885.0,0.516,0.194,103,0
 Birmingham,West Midlands,1606,1591,1473,1461,1816,1666,652.4,0.009,0.154,106,0
 Manchester,North West,1343,1087,1193,929,1491,1375,476.7,0.191,0.111,111,0
@@ -25,7 +25,7 @@ City of Edinburgh,Scotland,477,410,468,388,490,455,204.5,0.14,0.13,5,0
 Leicester,East Midlands,467,467,398,398,484,446,186.7,0.0,0.143,6,0
 Haringey,London,466,438,340,305,429,396,193.1,0.06,0.23,10,0
 Wolverhampton,West Midlands,465,465,369,369,329,303,178.4,0.0,0.105,50,0
-Barking and Dagenham,London,449,449,407,407,445,407,173.3,0.0,0.098,24,2
+Barking and Dagenham,London,449,449,407,407,445,407,173.3,0.0,0.098,26,2
 Coventry,West Midlands,441,357,397,318,464,424,164.4,0.19,0.107,27,0
 Enfield,London,438,408,469,435,565,523,188.5,0.068,0.199,19,0
 Hounslow,London,409,409,412,412,478,441,166.4,0.0,0.132,11,0
@@ -41,7 +41,7 @@ Wandsworth,London,348,348,332,332,344,320,142.1,0.0,0.109,14,0
 West Northamptonshire,East Midlands,344,344,379,379,355,331,140.0,0.0,0.113,2,0
 Sandwell,West Midlands,340,327,337,325,387,355,137.4,0.038,0.129,25,0
 Southwark,London,331,326,334,326,404,369,142.3,0.015,0.166,9,0
-Havering,London,329,329,268,268,329,309,135.9,0.0,0.116,11,8
+Havering,London,329,329,268,268,329,309,135.9,0.0,0.116,12,8
 Merton,London,326,305,288,270,306,287,134.1,0.064,0.117,11,0
 Bromley,London,323,300,322,304,369,350,130.6,0.071,0.149,26,0
 Milton Keynes,South East,323,323,293,291,386,362,133.6,0.0,0.118,14,0
@@ -98,7 +98,7 @@ South Gloucestershire,South West,174,174,173,173,204,193,74.6,0.0,0.155,3,0
 Southend-on-Sea,East of England,174,170,174,167,186,176,73.3,0.023,0.115,13,1
 Bedford,East of England,173,162,161,151,170,158,76.7,0.064,0.191,3,0
 Stoke-on-Trent,West Midlands,172,172,186,186,215,197,65.8,0.0,0.11,15,0
-Thurrock,East of England,172,172,162,162,188,174,74.5,0.0,0.169,6,1
+Thurrock,East of England,172,172,162,162,188,174,74.5,0.0,0.169,7,1
 "Kingston upon Hull, City of",Yorkshire and The Humber,171,171,133,133,196,178,66.5,0.0,0.082,1,0
 Dartford,South East,170,161,144,131,135,127,70.4,0.053,0.165,17,0
 Cambridge,East of England,169,136,149,128,208,194,79.7,0.195,0.101,1,0
