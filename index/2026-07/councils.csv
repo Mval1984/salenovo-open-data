@@ -41,7 +41,7 @@ Wandsworth,London,348,348,332,332,344,320,142.1,0.0,0.109,14,0
 West Northamptonshire,East Midlands,344,344,379,379,355,331,140.0,0.0,0.113,2,0
 Sandwell,West Midlands,340,327,337,325,387,355,137.4,0.038,0.129,25,0
 Southwark,London,331,326,334,326,404,369,142.3,0.015,0.166,11,0
-Havering,London,329,329,268,268,329,309,135.9,0.0,0.116,12,8
+Havering,London,329,329,268,268,329,309,135.9,0.0,0.116,14,8
 Merton,London,326,305,288,270,306,287,134.1,0.064,0.117,12,0
 Bromley,London,323,300,322,304,369,350,130.6,0.071,0.149,26,0
 Milton Keynes,South East,323,323,293,291,386,362,133.6,0.0,0.118,16,0
@@ -211,7 +211,7 @@ South Ribble,North West,84,84,68,68,79,75,35.3,0.0,0.143,9,0
 Exeter,South West,83,79,73,68,90,85,37.4,0.048,0.277,1,0
 Epsom and Ewell,South East,82,82,64,64,83,79,35.8,0.0,0.159,0,0
 "Newry, Mourne and Down",Northern Ireland,82,82,101,101,84,80,35.3,0.0,0.171,1,0
-Uttlesford,East of England,82,82,78,78,81,77,34.8,0.0,0.11,3,2
+Uttlesford,East of England,82,82,78,78,81,77,34.8,0.0,0.11,4,2
 West Oxfordshire,South East,82,82,65,65,65,62,35.0,0.0,0.122,0,0
 Bridgend,Wales,81,81,72,72,61,57,28.5,0.0,0.062,1,0
 Runnymede,South East,81,69,82,74,94,89,34.5,0.148,0.198,0,0
