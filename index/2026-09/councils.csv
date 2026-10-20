@@ -1,5 +1,5 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
-Camden,London,4073,578,3325,536,4198,3890,1372.5,0.858,0.075,503,4
+Camden,London,4073,578,3325,536,4198,3890,1372.5,0.858,0.075,504,4
 Hackney,London,2683,418,2379,376,2429,2248,1655.9,0.844,0.116,331,8
 Islington,London,2348,341,1896,277,2596,2423,757.1,0.855,0.092,308,6
 Westminster,London,1746,792,1454,695,1905,1821,868.8,0.546,0.16,198,5
@@ -15,7 +15,7 @@ Redbridge,London,709,709,653,653,837,789,280.7,0.0,0.144,48,6
 Barnet,London,675,602,567,479,752,714,275.1,0.108,0.197,69,10
 Hillingdon,London,627,469,601,472,658,616,223.2,0.252,0.105,42,8
 Bradford,Yorkshire and The Humber,608,599,495,488,607,572,242.1,0.015,0.112,54,20
-Harrow,London,566,528,466,429,657,627,242.0,0.067,0.166,42,5
+Harrow,London,566,528,466,429,657,627,242.0,0.067,0.166,43,6
 City of Edinburgh,Scotland,550,455,475,416,576,544,235.5,0.173,0.098,77,6
 Ealing,London,542,542,413,413,617,573,219.7,0.0,0.135,48,7
 Liverpool,North West,541,509,482,451,662,621,224.0,0.059,0.124,42,17
@@ -37,14 +37,14 @@ Kirklees,Yorkshire and The Humber,378,377,358,357,473,449,147.7,0.003,0.106,35,8
 Luton,East of England,375,375,306,306,404,376,149.2,0.0,0.107,26,5
 Bolton,North West,362,337,304,283,450,427,151.9,0.069,0.133,24,7
 Milton Keynes,South East,356,356,268,267,400,381,142.7,0.0,0.143,34,3
-"Bristol, City of",South West,355,345,297,286,378,359,141.7,0.028,0.104,29,10
+"Bristol, City of",South West,355,345,297,286,378,359,141.7,0.028,0.104,29,9
 North Yorkshire,Yorkshire and The Humber,355,345,292,281,444,425,147.4,0.028,0.118,34,10
 Doncaster,Yorkshire and The Humber,345,345,292,292,305,286,107.8,0.0,0.087,18,9
 Cheshire East,North West,344,344,292,292,385,369,149.3,0.0,0.177,42,6
 Nottingham,East Midlands,336,336,250,250,322,304,136.5,0.0,0.137,36,15
-West Northamptonshire,East Midlands,328,328,314,314,415,394,136.4,0.0,0.107,37,2
+West Northamptonshire,East Midlands,328,328,314,314,415,394,136.4,0.0,0.107,37,4
 Hammersmith and Fulham,London,325,271,201,154,393,376,153.7,0.166,0.286,17,2
-Stockport,North West,314,282,268,248,325,311,130.4,0.102,0.131,29,11
+Stockport,North West,314,282,268,248,325,311,130.4,0.102,0.131,29,10
 "Bournemouth, Christchurch and Poole",South West,309,309,229,229,348,331,129.1,0.0,0.139,27,7
 Somerset,South West,306,306,221,221,332,318,126.0,0.0,0.118,35,4
 Lambeth,London,305,305,306,306,410,385,127.8,0.0,0.125,29,4
@@ -111,7 +111,7 @@ Middlesbrough,North East,168,168,145,145,157,147,65.9,0.0,0.119,13,5
 Stoke-on-Trent,West Midlands,168,168,166,166,212,198,67.5,0.0,0.113,14,9
 Chelmsford,East of England,167,167,124,124,163,156,72.1,0.0,0.12,10,1
 Stockton-on-Tees,North East,166,166,118,117,149,142,69.9,0.0,0.114,18,2
-Aberdeen City,Scotland,165,165,146,146,134,128,68.2,0.0,0.109,9,7
+Aberdeen City,Scotland,165,165,146,146,134,128,68.2,0.0,0.109,9,6
 Wokingham,South East,160,160,142,142,168,162,67.6,0.0,0.138,14,0
 Hertsmere,East of England,157,157,114,114,164,158,68.2,0.0,0.172,17,1
 Shropshire,West Midlands,157,157,132,132,161,154,65.3,0.0,0.115,13,7
@@ -133,13 +133,13 @@ Reading,South East,134,134,115,115,178,169,52.4,0.0,0.082,10,4
 Barnsley,Yorkshire and The Humber,133,133,114,114,124,117,54.3,0.0,0.083,8,4
 Gravesham,South East,133,133,99,99,127,120,55.7,0.0,0.15,9,2
 Cherwell,South East,130,130,95,95,131,125,55.3,0.0,0.169,9,4
-Renfrewshire,Scotland,127,127,82,82,119,113,52.2,0.0,0.102,12,8
+Renfrewshire,Scotland,127,127,82,82,119,113,52.2,0.0,0.102,12,9
 Colchester,East of England,126,126,141,141,132,126,51.4,0.0,0.119,13,2
 Huntingdonshire,East of England,126,126,114,114,118,113,53.8,0.0,0.159,9,2
 Cumberland,North West,125,125,86,86,130,124,52.3,0.0,0.12,17,2
 Wealden,South East,125,113,97,90,120,116,55.8,0.096,0.152,14,2
 Canterbury,South East,123,114,85,81,94,90,51.1,0.073,0.138,8,3
-Norwich,East of England,122,122,111,111,132,127,50.8,0.0,0.123,19,0
+Norwich,East of England,122,122,111,111,132,127,50.8,0.0,0.123,19,1
 Brentwood,East of England,121,121,107,107,118,113,48.9,0.0,0.074,11,1
 Gateshead,North East,120,120,93,93,166,158,51.0,0.0,0.117,12,5
 Rhondda Cynon Taf,Wales,120,118,109,100,141,134,47.7,0.017,0.092,16,9
@@ -204,7 +204,7 @@ Arun,South East,85,85,72,72,82,78,34.6,0.0,0.153,9,1
 Exeter,South West,85,82,64,60,76,73,37.4,0.035,0.2,10,3
 Ashford,South East,84,76,102,93,97,93,37.5,0.095,0.071,12,2
 Fareham,South East,83,58,78,55,112,108,40.9,0.301,0.157,8,2
-"Newry, Mourne and Down",Northern Ireland,83,83,75,75,126,121,34.1,0.0,0.157,4,1
+"Newry, Mourne and Down",Northern Ireland,83,83,75,75,126,121,34.1,0.0,0.157,4,2
 West Oxfordshire,South East,83,83,74,74,74,71,35.0,0.0,0.133,11,1
 Carmarthenshire,Wales,82,82,92,92,88,84,33.9,0.0,0.134,9,3
 Woking,South East,82,82,76,76,105,100,34.2,0.0,0.122,7,0
