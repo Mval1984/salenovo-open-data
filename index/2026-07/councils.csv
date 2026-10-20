@@ -95,7 +95,7 @@ Preston,North West,182,182,188,188,192,178,73.3,0.0,0.143,13,0
 Sutton,London,180,180,175,175,215,203,74.2,0.0,0.133,10,0
 Epping Forest,East of England,176,176,159,159,203,192,73.8,0.0,0.136,3,1
 South Gloucestershire,South West,174,174,173,173,204,193,74.6,0.0,0.155,3,0
-Southend-on-Sea,East of England,174,170,174,167,186,176,73.3,0.023,0.115,13,1
+Southend-on-Sea,East of England,174,170,174,167,186,176,73.3,0.023,0.115,14,1
 Bedford,East of England,173,162,161,151,170,158,76.7,0.064,0.191,6,0
 Stoke-on-Trent,West Midlands,172,172,186,186,215,197,65.8,0.0,0.11,15,0
 Thurrock,East of England,172,172,162,162,188,174,74.5,0.0,0.169,7,1
@@ -106,7 +106,7 @@ Fife,Scotland,169,169,132,132,139,130,70.7,0.0,0.118,6,0
 Southampton,South East,166,166,142,142,216,200,65.9,0.0,0.084,3,0
 Blackburn with Darwen,North West,163,163,194,194,183,170,62.2,0.0,0.08,9,0
 Wokingham,South East,163,163,143,143,158,150,68.2,0.0,0.123,3,0
-Basildon,East of England,161,136,154,140,158,149,76.4,0.155,0.137,7,1
+Basildon,East of England,161,136,154,140,158,149,76.4,0.155,0.137,8,1
 Sunderland,North East,160,160,151,151,151,140,67.3,0.0,0.106,1,0
 Middlesbrough,North East,158,158,137,137,155,142,63.5,0.0,0.089,2,0
 Shropshire,West Midlands,158,158,134,134,175,166,67.8,0.0,0.19,10,0
@@ -120,11 +120,11 @@ Reading,South East,155,155,139,139,169,158,61.8,0.0,0.097,3,0
 Colchester,East of England,152,152,115,115,138,130,63.4,0.0,0.118,9,2
 Norwich,East of England,152,152,135,135,123,117,61.7,0.0,0.118,1,0
 Hertsmere,East of England,147,147,145,145,158,150,63.7,0.0,0.197,0,0
-Chelmsford,East of England,146,146,152,152,141,133,62.7,0.0,0.137,9,2
+Chelmsford,East of England,146,146,152,152,141,133,62.7,0.0,0.137,10,2
 Elmbridge,South East,144,144,122,122,128,122,62.0,0.0,0.09,2,0
 Stockton-on-Tees,North East,139,136,137,137,162,152,58.6,0.022,0.165,4,0
 Portsmouth,South East,138,138,150,150,176,164,57.5,0.0,0.152,2,0
-Harlow,East of England,136,104,109,90,119,113,69.9,0.235,0.11,10,2
+Harlow,East of England,136,104,109,90,119,113,69.9,0.235,0.11,12,2
 Northumberland,North East,134,134,156,156,153,144,57.6,0.0,0.142,1,0
 Swindon,South West,133,133,125,125,156,146,55.8,0.0,0.113,3,0
 North Tyneside,North East,132,132,106,106,155,146,56.6,0.0,0.106,3,0
@@ -294,7 +294,7 @@ Ashfield,East Midlands,55,55,61,61,71,66,22.4,0.0,0.109,2,0
 South Ayrshire,Scotland,55,55,48,48,55,52,22.6,0.0,0.091,1,0
 Teignbridge,South West,55,55,60,60,68,65,23.6,0.0,0.145,3,0
 Hartlepool,North East,54,54,49,49,48,45,23.0,0.0,0.111,1,0
-Maldon,East of England,54,54,37,37,57,54,23.6,0.0,0.111,5,0
+Maldon,East of England,54,54,37,37,57,54,23.6,0.0,0.111,6,0
 North West Leicestershire,East Midlands,54,54,59,59,54,51,21.9,0.0,0.074,0,0
 Tamworth,West Midlands,54,54,54,54,68,64,22.6,0.0,0.074,6,0
 Great Yarmouth,East of England,53,53,49,49,61,56,21.4,0.0,0.094,1,0
