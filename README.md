@@ -2,7 +2,7 @@
 
 Counts of new UK companies, and what became of them, from the Companies House register. Every file here is published on [salenovo.com](https://www.salenovo.com/), and each section links to the page that explains it.
 
-Updated 21 October 2026. The site's figures change every week, so the copy on the site is always the latest.
+Updated 25 October 2026. The site's figures change every week, so the copy on the site is always the latest.
 
 ## What's here
 
