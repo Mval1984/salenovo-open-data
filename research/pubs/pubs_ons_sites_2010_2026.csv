@@ -1,0 +1,239 @@
+year,geography,geography_code,geography_type,local_units,source,dataset
+2010,United Kingdom,K02000001,countries,44680,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,England,E92000001,countries,37775,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,Wales,W92000004,countries,2720,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,Scotland,S92000003,countries,3215,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,Northern Ireland,N92000002,countries,965,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,North East,E12000001,regions,1795,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,North West,E12000002,regions,5205,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,Yorkshire and The Humber,E12000003,regions,4125,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,East Midlands,E12000004,regions,3720,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,West Midlands,E12000005,regions,3990,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,East,E12000006,regions,4010,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,London,E12000007,regions,3915,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,South East,E12000008,regions,6195,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2010,South West,E12000009,regions,4825,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,United Kingdom,K02000001,countries,43230,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,England,E92000001,countries,36455,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,Wales,W92000004,countries,2575,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,Scotland,S92000003,countries,3230,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,Northern Ireland,N92000002,countries,970,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,North East,E12000001,regions,1705,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,North West,E12000002,regions,5035,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,Yorkshire and The Humber,E12000003,regions,3945,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,East Midlands,E12000004,regions,3585,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,West Midlands,E12000005,regions,3840,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,East,E12000006,regions,3860,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,London,E12000007,regions,3795,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,South East,E12000008,regions,5975,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2011,South West,E12000009,regions,4715,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,United Kingdom,K02000001,countries,42585,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,England,E92000001,countries,35900,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,Wales,W92000004,countries,2565,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,Scotland,S92000003,countries,3200,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,Northern Ireland,N92000002,countries,925,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,North East,E12000001,regions,1690,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,North West,E12000002,regions,4955,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,Yorkshire and The Humber,E12000003,regions,3915,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,East Midlands,E12000004,regions,3475,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,West Midlands,E12000005,regions,3780,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,East,E12000006,regions,3800,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,London,E12000007,regions,3795,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,South East,E12000008,regions,5905,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2012,South West,E12000009,regions,4590,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,United Kingdom,K02000001,countries,41015,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,England,E92000001,countries,34670,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,Wales,W92000004,countries,2440,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,Scotland,S92000003,countries,3025,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,Northern Ireland,N92000002,countries,880,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,North East,E12000001,regions,1625,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,North West,E12000002,regions,4740,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,Yorkshire and The Humber,E12000003,regions,3820,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,East Midlands,E12000004,regions,3385,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,West Midlands,E12000005,regions,3645,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,East,E12000006,regions,3630,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,London,E12000007,regions,3685,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,South East,E12000008,regions,5650,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2013,South West,E12000009,regions,4485,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,United Kingdom,K02000001,countries,40540,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,England,E92000001,countries,34255,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,Wales,W92000004,countries,2425,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,Scotland,S92000003,countries,3025,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,Northern Ireland,N92000002,countries,830,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,North East,E12000001,regions,1645,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,North West,E12000002,regions,4660,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,Yorkshire and The Humber,E12000003,regions,3785,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,East Midlands,E12000004,regions,3305,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,West Midlands,E12000005,regions,3595,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,East,E12000006,regions,3635,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,London,E12000007,regions,3635,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,South East,E12000008,regions,5610,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2014,South West,E12000009,regions,4385,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,United Kingdom,K02000001,countries,40360,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,England,E92000001,countries,34215,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,Wales,W92000004,countries,2380,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,Scotland,S92000003,countries,2985,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,Northern Ireland,N92000002,countries,785,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,North East,E12000001,regions,1650,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,North West,E12000002,regions,4665,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,Yorkshire and The Humber,E12000003,regions,3805,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,East Midlands,E12000004,regions,3320,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,West Midlands,E12000005,regions,3580,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,East,E12000006,regions,3575,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,London,E12000007,regions,3690,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,South East,E12000008,regions,5555,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2015,South West,E12000009,regions,4375,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,United Kingdom,K02000001,countries,39590,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,England,E92000001,countries,33585,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,Wales,W92000004,countries,2305,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,Scotland,S92000003,countries,2915,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,Northern Ireland,N92000002,countries,780,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,North East,E12000001,regions,1605,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,North West,E12000002,regions,4600,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,Yorkshire and The Humber,E12000003,regions,3745,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,East Midlands,E12000004,regions,3245,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,West Midlands,E12000005,regions,3515,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,East,E12000006,regions,3515,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,London,E12000007,regions,3630,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,South East,E12000008,regions,5450,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2016,South West,E12000009,regions,4285,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,United Kingdom,K02000001,countries,38935,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,England,E92000001,countries,33045,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,Wales,W92000004,countries,2260,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,Scotland,S92000003,countries,2860,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,Northern Ireland,N92000002,countries,775,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,North East,E12000001,regions,1600,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,North West,E12000002,regions,4515,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,Yorkshire and The Humber,E12000003,regions,3660,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,East Midlands,E12000004,regions,3225,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,West Midlands,E12000005,regions,3480,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,East,E12000006,regions,3450,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,London,E12000007,regions,3545,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,South East,E12000008,regions,5320,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2017,South West,E12000009,regions,4245,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,United Kingdom,K02000001,countries,38825,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,England,E92000001,countries,32960,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,Wales,W92000004,countries,2215,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,Scotland,S92000003,countries,2860,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,Northern Ireland,N92000002,countries,785,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,North East,E12000001,regions,1615,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,North West,E12000002,regions,4485,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,Yorkshire and The Humber,E12000003,regions,3665,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,East Midlands,E12000004,regions,3230,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,West Midlands,E12000005,regions,3435,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,East,E12000006,regions,3440,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,London,E12000007,regions,3560,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,South East,E12000008,regions,5330,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2018,South West,E12000009,regions,4200,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,United Kingdom,K02000001,countries,39145,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,England,E92000001,countries,33305,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,Wales,W92000004,countries,2190,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,Scotland,S92000003,countries,2855,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,Northern Ireland,N92000002,countries,790,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,North East,E12000001,regions,1700,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,North West,E12000002,regions,4535,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,Yorkshire and The Humber,E12000003,regions,3705,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,East Midlands,E12000004,regions,3210,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,West Midlands,E12000005,regions,3515,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,East,E12000006,regions,3495,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,London,E12000007,regions,3550,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,South East,E12000008,regions,5340,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2019,South West,E12000009,regions,4255,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,United Kingdom,K02000001,countries,38885,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,England,E92000001,countries,33125,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,Wales,W92000004,countries,2195,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,Scotland,S92000003,countries,2795,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,Northern Ireland,N92000002,countries,770,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,North East,E12000001,regions,1700,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,North West,E12000002,regions,4490,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,Yorkshire and The Humber,E12000003,regions,3725,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,East Midlands,E12000004,regions,3185,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,West Midlands,E12000005,regions,3485,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,East,E12000006,regions,3490,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,London,E12000007,regions,3590,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,South East,E12000008,regions,5250,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2020,South West,E12000009,regions,4205,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,United Kingdom,K02000001,countries,37865,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,England,E92000001,countries,32430,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,Wales,W92000004,countries,2035,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,Scotland,S92000003,countries,2645,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,Northern Ireland,N92000002,countries,755,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,North East,E12000001,regions,1665,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,North West,E12000002,regions,4385,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,Yorkshire and The Humber,E12000003,regions,3680,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,East Midlands,E12000004,regions,3100,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,West Midlands,E12000005,regions,3415,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,East,E12000006,regions,3380,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,London,E12000007,regions,3565,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,South East,E12000008,regions,5130,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2021,South West,E12000009,regions,4105,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,United Kingdom,K02000001,countries,38225,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,England,E92000001,countries,32790,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,Wales,W92000004,countries,2030,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,Scotland,S92000003,countries,2660,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,Northern Ireland,N92000002,countries,745,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,North East,E12000001,regions,1685,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,North West,E12000002,regions,4520,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,Yorkshire and The Humber,E12000003,regions,3770,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,East Midlands,E12000004,regions,3140,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,West Midlands,E12000005,regions,3485,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,East,E12000006,regions,3365,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,London,E12000007,regions,3585,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,South East,E12000008,regions,5150,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2022,South West,E12000009,regions,4095,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,United Kingdom,K02000001,countries,38175,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,England,E92000001,countries,32665,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,Wales,W92000004,countries,2095,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,Scotland,S92000003,countries,2655,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,Northern Ireland,N92000002,countries,760,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,North East,E12000001,regions,1670,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,North West,E12000002,regions,4520,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,Yorkshire and The Humber,E12000003,regions,3780,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,East Midlands,E12000004,regions,3140,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,West Midlands,E12000005,regions,3505,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,East,E12000006,regions,3290,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,London,E12000007,regions,3545,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,South East,E12000008,regions,5130,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2023,South West,E12000009,regions,4080,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,United Kingdom,K02000001,countries,37875,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,England,E92000001,countries,32425,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,Wales,W92000004,countries,2055,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,Scotland,S92000003,countries,2620,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,Northern Ireland,N92000002,countries,770,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,North East,E12000001,regions,1655,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,North West,E12000002,regions,4530,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,Yorkshire and The Humber,E12000003,regions,3710,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,East Midlands,E12000004,regions,3115,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,West Midlands,E12000005,regions,3485,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,East,E12000006,regions,3250,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,London,E12000007,regions,3535,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,South East,E12000008,regions,5120,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2024,South West,E12000009,regions,4015,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,United Kingdom,K02000001,countries,37805,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,England,E92000001,countries,32450,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,Wales,W92000004,countries,2035,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,Scotland,S92000003,countries,2565,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,Northern Ireland,N92000002,countries,755,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,North East,E12000001,regions,1660,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,North West,E12000002,regions,4565,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,Yorkshire and The Humber,E12000003,regions,3705,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,East Midlands,E12000004,regions,3070,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,West Midlands,E12000005,regions,3430,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,East,E12000006,regions,3275,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,London,E12000007,regions,3620,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,South East,E12000008,regions,5120,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2025,South West,E12000009,regions,4005,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,United Kingdom,K02000001,countries,37350,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,England,E92000001,countries,32060,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,Wales,W92000004,countries,2005,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,Scotland,S92000003,countries,2540,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,Northern Ireland,N92000002,countries,745,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,North East,E12000001,regions,1655,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,North West,E12000002,regions,4460,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,Yorkshire and The Humber,E12000003,regions,3670,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,East Midlands,E12000004,regions,3005,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,West Midlands,E12000005,regions,3340,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,East,E12000006,regions,3270,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,London,E12000007,regions,3625,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,South East,E12000008,regions,5030,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1
+2026,South West,E12000009,regions,4015,"ONS UK Business Counts, local units, SIC 56302 Public houses and bars, March, rounded to 5 (Nomis)",NM_141_1

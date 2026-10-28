@@ -2,7 +2,7 @@
 
 Counts of new UK companies, and what became of them, from the Companies House register. Every file here is published on [salenovo.com](https://www.salenovo.com/), and each section links to the page that explains it.
 
-Updated 26 October 2026. The site's figures change every week, so the copy on the site is always the latest.
+Updated 28 October 2026. The site's figures change every week, so the copy on the site is always the latest.
 
 ## What's here
 
@@ -11,6 +11,7 @@ Updated 26 October 2026. The site's figures change every week, so the copy on th
 * **`index/`**: the monthly UK Business Formation Index, 4 months from 2026-06 to 2026-09. Explained on the [Formation Index](https://www.salenovo.com/index/) page.
 * **`research/fee-rise-2024/`**: the downloads for [this research piece](https://www.salenovo.com/research/fee-rise-2024/).
 * **`research/mass-formation-addresses/`**: the downloads for [this research piece](https://www.salenovo.com/research/mass-formation-addresses/).
+* **`research/pubs/`**: the downloads for [this research piece](https://www.salenovo.com/research/pubs/).
 * **`research/what-britain-starts-now/`**: the downloads for [this research piece](https://www.salenovo.com/research/what-britain-starts-now/).
 * **`research/which-new-companies-last/`**: the downloads for [this research piece](https://www.salenovo.com/research/which-new-companies-last/).
 

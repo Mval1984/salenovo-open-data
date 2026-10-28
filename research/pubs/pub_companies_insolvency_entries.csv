@@ -1,0 +1,17 @@
+trade,year,alive 5y+ at 1 Jan,entered insolvency (weighted),per 100,note
+pubs,2019,9991,180,1.8,
+pubs,2020,10816,139,1.29,
+pubs,2021,11758,109,0.93,
+pubs,2022,12783,233,1.82,
+pubs,2023,14356,386,2.69,
+pubs,2024,16359,475,2.9,
+pubs,2025,18863,525,2.78,
+pubs,2026,19565,348,2.31,"2026 to 9 October, annualised by days"
+restaurants,2019,13376,379,2.83,
+restaurants,2020,14224,344,2.42,
+restaurants,2021,15191,213,1.4,
+restaurants,2022,16515,343,2.08,
+restaurants,2023,18745,605,3.23,
+restaurants,2024,21601,764,3.54,
+restaurants,2025,25471,799,3.14,
+restaurants,2026,26722,592,2.88,"2026 to 9 October, annualised by days"
