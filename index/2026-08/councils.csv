@@ -1,5 +1,5 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
-Camden,London,3325,536,3645,550,3511,3214,1117.2,0.839,0.08,365,0
+Camden,London,3325,536,3645,550,3511,3214,1117.2,0.839,0.08,366,0
 Hackney,London,2379,376,3243,600,2111,1929,1500.2,0.842,0.117,229,0
 Islington,London,1896,277,2342,361,2339,2160,613.8,0.854,0.089,207,0
 Westminster,London,1454,695,1767,856,1651,1567,730.7,0.522,0.18,136,0
@@ -39,7 +39,7 @@ Southwark,London,306,300,331,326,360,332,130.0,0.02,0.134,20,0
 Bolton,North West,304,283,376,347,395,372,125.6,0.069,0.112,22,0
 Haringey,London,303,279,466,438,387,361,125.9,0.079,0.221,15,0
 "Bristol, City of",South West,297,286,399,385,358,337,119.5,0.037,0.138,24,0
-Cardiff,Wales,292,292,357,357,299,281,123.4,0.0,0.14,18,0
+Cardiff,Wales,292,292,357,357,299,281,123.4,0.0,0.14,19,0
 Cheshire East,North West,292,292,308,308,319,304,126.1,0.0,0.151,36,0
 Doncaster,Yorkshire and The Humber,292,292,318,318,248,230,96.3,0.0,0.089,10,0
 North Yorkshire,Yorkshire and The Humber,292,281,396,360,362,344,123.1,0.038,0.154,25,0
@@ -88,9 +88,9 @@ Rotherham,Yorkshire and The Humber,181,181,198,198,171,161,74.4,0.0,0.105,15,0
 Warrington,North West,179,134,215,163,202,191,83.6,0.251,0.145,16,0
 Tameside,North West,177,177,187,187,178,167,69.3,0.0,0.107,30,0
 Peterborough,East of England,170,170,234,234,232,216,68.3,0.0,0.088,11,0
-Stoke-on-Trent,West Midlands,166,166,172,172,193,179,66.8,0.0,0.096,20,0
+Stoke-on-Trent,West Midlands,166,166,172,172,193,179,66.8,0.0,0.096,21,0
 Kingston upon Thames,London,163,163,157,157,165,156,68.6,0.0,0.147,11,0
-Southampton,South East,160,160,166,166,200,187,63.7,0.0,0.1,14,0
+Southampton,South East,160,160,166,166,200,187,63.7,0.0,0.1,15,0
 "Kingston upon Hull, City of",Yorkshire and The Humber,158,158,171,171,162,149,63.9,0.0,0.076,14,0
 Sefton,North West,158,158,232,232,196,183,66.4,0.0,0.152,12,0
 Epping Forest,East of England,157,157,176,176,161,153,69.1,0.0,0.229,14,0
@@ -101,7 +101,7 @@ South Gloucestershire,South West,151,151,174,174,181,173,63.3,0.0,0.139,15,0
 Southend-on-Sea,East of England,149,147,174,170,174,166,63.3,0.013,0.148,15,2
 Windsor and Maidenhead,South East,149,149,157,157,155,148,60.7,0.0,0.121,21,0
 Calderdale,Yorkshire and The Humber,148,148,155,155,130,122,61.4,0.0,0.115,9,0
-Richmond upon Thames,London,147,147,183,183,184,175,63.4,0.0,0.136,12,0
+Richmond upon Thames,London,147,147,183,183,184,175,63.4,0.0,0.136,13,0
 Aberdeen City,Scotland,146,146,156,156,167,158,61.7,0.0,0.103,14,0
 Middlesbrough,North East,145,145,158,158,142,131,56.8,0.0,0.076,6,0
 East Riding of Yorkshire,Yorkshire and The Humber,144,144,212,212,181,173,61.6,0.0,0.132,12,0
@@ -155,10 +155,10 @@ Oxford,South East,97,97,103,103,103,97,40.3,0.0,0.072,5,0
 Stratford-on-Avon,West Midlands,97,97,97,97,90,86,39.3,0.0,0.072,10,0
 Wealden,South East,97,90,101,92,95,91,43.2,0.072,0.144,14,0
 North Hertfordshire,East of England,96,96,103,103,104,99,42.1,0.0,0.188,7,0
-Cherwell,South East,95,95,94,94,120,114,38.0,0.0,0.095,7,0
+Cherwell,South East,95,95,94,94,120,114,38.0,0.0,0.095,8,0
 Telford and Wrekin,West Midlands,95,95,86,86,100,94,38.6,0.0,0.189,8,0
 Watford,East of England,95,95,131,131,140,132,39.5,0.0,0.147,10,0
-Braintree,East of England,94,94,77,77,94,90,39.6,0.0,0.106,9,3
+Braintree,East of England,94,94,77,77,94,90,39.6,0.0,0.106,9,4
 Dundee City,Scotland,94,94,98,98,113,107,39.5,0.0,0.16,7,0
 Gateshead,North East,93,93,130,130,127,120,38.2,0.0,0.14,4,0
 Carmarthenshire,Wales,92,92,85,85,77,73,39.4,0.0,0.12,9,0
