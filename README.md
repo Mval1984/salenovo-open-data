@@ -2,13 +2,13 @@
 
 Counts of new UK companies, and what became of them, from the Companies House register. Every file here is published on [salenovo.com](https://www.salenovo.com/), and each section links to the page that explains it.
 
-Updated 30 October 2026. The site's figures change every week, so the copy on the site is always the latest.
+Updated 2 November 2026. The site's figures change every week, so the copy on the site is always the latest.
 
 ## What's here
 
 * **`data/`**: the Business Survival Index, by council and by constituency, and constituencies' figures. Explained on the [Survival Index](https://www.salenovo.com/survival/) and [method](https://www.salenovo.com/method/) pages.
 * **`data/local/`**: 88 local areas' figures, one file each. Each area's page on the site has the same figures: [find an area](https://www.salenovo.com/browse/).
-* **`index/`**: the monthly UK Business Formation Index, 4 months from 2026-06 to 2026-09. Explained on the [Formation Index](https://www.salenovo.com/index/) page.
+* **`index/`**: the monthly UK Business Formation Index, 5 months from 2026-06 to 2026-10. Explained on the [Formation Index](https://www.salenovo.com/index/) page.
 * **`research/fee-rise-2024/`**: the downloads for [this research piece](https://www.salenovo.com/research/fee-rise-2024/).
 * **`research/mass-formation-addresses/`**: the downloads for [this research piece](https://www.salenovo.com/research/mass-formation-addresses/).
 * **`research/pubs/`**: the downloads for [this research piece](https://www.salenovo.com/research/pubs/).
