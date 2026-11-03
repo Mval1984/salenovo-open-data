@@ -4,7 +4,7 @@ Hackney,London,2683,418,2379,376,2429,2248,1655.9,0.844,0.116,359,10
 Islington,London,2348,341,1896,277,2596,2423,757.1,0.855,0.092,341,3
 Westminster,London,1746,792,1454,695,1905,1821,868.8,0.546,0.16,218,6
 Birmingham,West Midlands,1563,1550,1330,1320,1710,1601,628.1,0.008,0.138,134,35
-Manchester,North West,1329,1060,1095,894,1470,1382,473.7,0.202,0.104,138,22
+Manchester,North West,1329,1060,1095,894,1470,1382,473.7,0.202,0.104,139,22
 Tower Hamlets,London,1084,914,831,696,882,831,421.5,0.157,0.114,121,5
 Newham,London,1013,958,873,840,1079,999,356.2,0.054,0.083,87,7
 West Suffolk,East of England,866,115,746,94,726,694,343.5,0.867,0.06,101,2
@@ -37,7 +37,7 @@ Kirklees,Yorkshire and The Humber,378,377,358,357,473,449,147.7,0.003,0.106,39,1
 Luton,East of England,375,375,306,306,404,376,149.2,0.0,0.107,29,5
 Bolton,North West,362,337,304,283,450,427,151.9,0.069,0.133,26,9
 Milton Keynes,South East,356,356,268,267,400,381,142.7,0.0,0.143,36,4
-"Bristol, City of",South West,355,345,297,286,378,359,141.7,0.028,0.104,32,9
+"Bristol, City of",South West,355,345,297,286,378,359,141.7,0.028,0.104,33,9
 North Yorkshire,Yorkshire and The Humber,355,345,292,281,444,425,147.4,0.028,0.118,38,13
 Doncaster,Yorkshire and The Humber,345,345,292,292,305,286,107.8,0.0,0.087,21,9
 Cheshire East,North West,344,344,292,292,385,369,149.3,0.0,0.177,44,6
@@ -75,7 +75,7 @@ Kensington and Chelsea,London,231,210,189,168,275,259,96.2,0.091,0.152,15,0
 Bexley,London,227,210,188,181,301,286,100.5,0.075,0.176,28,7
 Rochdale,North West,219,219,183,178,255,241,84.7,0.0,0.091,13,7
 Brighton and Hove,South East,218,218,208,208,286,274,90.0,0.0,0.101,14,4
-Walsall,West Midlands,216,216,232,232,313,295,87.8,0.0,0.144,16,6
+Walsall,West Midlands,216,216,232,232,313,295,87.8,0.0,0.144,17,6
 Blackburn with Darwen,North West,214,214,181,181,177,167,82.3,0.0,0.098,16,2
 South Lanarkshire,Scotland,214,214,199,199,232,221,87.2,0.0,0.098,18,7
 Central Bedfordshire,East of England,213,213,197,197,222,212,89.4,0.0,0.136,19,1
@@ -219,7 +219,7 @@ Nuneaton and Bedworth,West Midlands,78,78,81,81,97,92,30.6,0.0,0.115,9,1
 Rother,South East,78,78,65,65,71,68,31.2,0.0,0.141,7,0
 Swale,South East,78,78,80,80,99,95,32.3,0.0,0.128,9,3
 Newcastle-under-Lyme,West Midlands,77,77,48,48,80,76,30.9,0.0,0.169,4,2
-Rugby,West Midlands,77,77,92,92,96,92,32.8,0.0,0.234,7,2
+Rugby,West Midlands,77,77,92,92,96,92,32.8,0.0,0.234,8,2
 Eastbourne,South East,76,67,63,60,78,75,34.9,0.118,0.184,9,1
 Lichfield,West Midlands,76,76,68,68,89,85,33.3,0.0,0.224,5,1
 South Oxfordshire,South East,76,76,80,80,106,102,32.4,0.0,0.092,12,1

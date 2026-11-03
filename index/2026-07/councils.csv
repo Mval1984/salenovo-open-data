@@ -1,5 +1,5 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
-Camden,London,3645,550,3526,503,3196,2891,1242.8,0.849,0.086,339,0
+Camden,London,3645,550,3526,503,3196,2891,1242.8,0.849,0.086,340,0
 Hackney,London,3243,600,2953,491,2363,2134,2034.6,0.815,0.131,221,0
 Islington,London,2342,361,2278,402,2330,2129,754.8,0.846,0.089,201,0
 Westminster,London,1767,856,1658,771,1728,1630,885.0,0.516,0.194,113,0
@@ -15,7 +15,7 @@ Glasgow City,Scotland,655,551,666,568,738,688,274.2,0.159,0.147,27,0
 Waltham Forest,London,648,440,538,376,551,507,260.1,0.321,0.103,39,0
 Hillingdon,London,635,482,586,452,619,568,223.2,0.241,0.107,33,0
 Harrow,London,599,570,541,508,592,558,248.6,0.048,0.157,24,0
-Brent,London,532,532,438,438,550,506,213.3,0.0,0.115,30,0
+Brent,London,532,532,438,438,550,506,213.3,0.0,0.115,31,0
 Ealing,London,523,523,497,495,633,575,214.2,0.0,0.115,33,0
 Bradford,Yorkshire and The Humber,515,506,522,515,610,564,201.2,0.017,0.113,29,0
 Buckinghamshire,South East,507,507,403,403,527,499,210.4,0.0,0.144,39,0
@@ -104,7 +104,7 @@ Dartford,South East,170,161,144,131,135,127,70.4,0.053,0.165,17,0
 Cambridge,East of England,169,136,149,128,208,194,79.7,0.195,0.101,10,0
 Fife,Scotland,169,169,132,132,139,130,70.7,0.0,0.118,10,0
 Southampton,South East,166,166,142,142,216,200,65.9,0.0,0.084,14,0
-Blackburn with Darwen,North West,163,163,194,194,183,170,62.2,0.0,0.08,9,0
+Blackburn with Darwen,North West,163,163,194,194,183,170,62.2,0.0,0.08,10,0
 Wokingham,South East,163,163,143,143,158,150,68.2,0.0,0.123,18,0
 Basildon,East of England,161,136,154,140,158,149,76.4,0.155,0.137,9,1
 Sunderland,North East,160,160,151,151,151,140,67.3,0.0,0.106,8,0
@@ -315,7 +315,7 @@ Scottish Borders,Scotland,48,48,38,38,71,67,20.7,0.0,0.104,2,0
 Angus,Scotland,47,47,42,42,49,46,20.0,0.0,0.213,2,0
 Fenland,East of England,47,47,38,38,53,49,20.0,0.0,0.213,1,0
 North Ayrshire,Scotland,46,46,51,51,42,39,19.3,0.0,0.087,2,0
-North Warwickshire,West Midlands,46,46,44,44,42,39,17.8,0.0,0.109,2,0
+North Warwickshire,West Midlands,46,46,44,44,42,39,17.8,0.0,0.109,3,0
 South Derbyshire,East Midlands,46,46,53,53,61,57,18.7,0.0,0.065,4,0
 Stirling,Scotland,46,46,44,44,56,53,19.9,0.0,0.174,3,0
 Midlothian,Scotland,45,45,44,44,59,55,19.7,0.0,0.156,0,0
