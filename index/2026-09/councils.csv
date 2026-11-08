@@ -11,7 +11,7 @@ West Suffolk,East of England,866,115,746,94,748,710,343.5,0.867,0.06,103,2
 Glasgow City,Scotland,758,634,675,568,823,774,322.2,0.164,0.148,68,22
 Waltham Forest,London,724,477,553,391,550,511,290.6,0.341,0.112,97,8
 Leeds,Yorkshire and The Humber,713,676,613,600,812,761,302.5,0.052,0.154,70,18
-Redbridge,London,709,709,653,653,829,774,280.7,0.0,0.144,54,8
+Redbridge,London,709,709,653,653,829,774,280.7,0.0,0.144,55,8
 Barnet,London,675,602,567,479,752,708,275.1,0.108,0.197,77,11
 Hillingdon,London,627,469,601,472,667,618,223.2,0.252,0.105,50,8
 Bradford,Yorkshire and The Humber,608,599,495,488,617,576,242.1,0.015,0.112,57,23
@@ -46,7 +46,7 @@ West Northamptonshire,East Midlands,328,328,314,314,416,391,136.4,0.0,0.107,44,5
 Hammersmith and Fulham,London,325,271,201,154,398,378,153.7,0.166,0.286,19,2
 Stockport,North West,314,282,268,248,321,305,130.4,0.102,0.131,36,13
 "Bournemouth, Christchurch and Poole",South West,309,309,229,229,346,327,129.1,0.0,0.139,30,7
-Somerset,South West,306,306,221,221,336,320,126.0,0.0,0.118,38,6
+Somerset,South West,306,306,221,221,336,320,126.0,0.0,0.118,39,6
 Lambeth,London,305,305,306,306,427,397,127.8,0.0,0.125,36,5
 Havering,London,302,302,285,285,373,352,117.4,0.0,0.113,20,7
 Cardiff,Wales,301,301,292,292,412,387,126.6,0.0,0.153,25,10
@@ -160,7 +160,7 @@ East Suffolk,East of England,107,107,82,82,118,112,45.8,0.0,0.14,9,3
 Tonbridge and Malling,South East,107,107,101,101,113,108,45.1,0.0,0.084,8,1
 Winchester,South East,106,106,79,79,109,105,44.1,0.0,0.085,12,4
 Blackpool,North West,105,105,100,100,101,94,42.4,0.0,0.114,10,2
-Guildford,South East,105,105,83,83,97,93,44.8,0.0,0.143,14,0
+Guildford,South East,105,105,83,83,97,93,44.8,0.0,0.143,15,0
 Basingstoke and Deane,South East,104,104,97,97,105,100,43.2,0.0,0.096,20,0
 Pendle,North West,104,104,74,74,88,82,39.9,0.0,0.106,9,0
 West Lothian,Scotland,104,104,114,114,89,84,42.9,0.0,0.115,6,4
