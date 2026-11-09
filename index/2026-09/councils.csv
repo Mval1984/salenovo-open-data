@@ -1,34 +1,34 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
-Camden,London,4073,578,3325,536,3999,3661,1372.5,0.858,0.075,555,4
-Hackney,London,2683,418,2379,376,2410,2203,1655.9,0.844,0.116,363,10
-Islington,London,2348,341,1896,277,2592,2393,757.1,0.855,0.092,350,6
+Camden,London,4073,578,3325,536,3999,3661,1372.5,0.858,0.075,559,4
+Hackney,London,2683,418,2379,376,2410,2203,1655.9,0.844,0.116,364,10
+Islington,London,2348,341,1896,277,2592,2393,757.1,0.855,0.092,351,6
 Westminster,London,1746,792,1454,695,1866,1772,868.8,0.546,0.16,221,6
 Birmingham,West Midlands,1563,1550,1330,1320,1723,1597,628.1,0.008,0.138,135,48
 Manchester,North West,1329,1060,1095,894,1479,1377,473.7,0.202,0.104,143,22
 Tower Hamlets,London,1084,914,831,696,886,827,421.5,0.157,0.114,122,5
 Newham,London,1013,958,873,840,1050,960,356.2,0.054,0.083,87,7
-West Suffolk,East of England,866,115,746,94,748,710,343.5,0.867,0.06,103,2
+West Suffolk,East of England,866,115,746,94,748,710,343.5,0.867,0.06,104,2
 Glasgow City,Scotland,758,634,675,568,823,774,322.2,0.164,0.148,68,22
 Waltham Forest,London,724,477,553,391,550,511,290.6,0.341,0.112,97,8
 Leeds,Yorkshire and The Humber,713,676,613,600,812,761,302.5,0.052,0.154,70,18
 Redbridge,London,709,709,653,653,829,774,280.7,0.0,0.144,55,8
-Barnet,London,675,602,567,479,752,708,275.1,0.108,0.197,77,11
-Hillingdon,London,627,469,601,472,667,618,223.2,0.252,0.105,50,8
+Barnet,London,675,602,567,479,752,708,275.1,0.108,0.197,78,11
+Hillingdon,London,627,469,601,472,667,618,223.2,0.252,0.105,51,8
 Bradford,Yorkshire and The Humber,608,599,495,488,617,576,242.1,0.015,0.112,57,23
 Harrow,London,566,528,466,429,661,627,242.0,0.067,0.166,50,6
 City of Edinburgh,Scotland,550,455,475,416,585,547,235.5,0.173,0.098,83,8
 Ealing,London,542,542,413,413,614,564,219.7,0.0,0.135,53,7
 Liverpool,North West,541,509,482,451,668,621,224.0,0.059,0.124,46,21
-Buckinghamshire,South East,532,532,448,448,566,539,221.4,0.0,0.115,55,7
+Buckinghamshire,South East,532,532,448,448,566,539,221.4,0.0,0.115,56,7
 Wolverhampton,West Midlands,500,500,384,384,374,348,188.6,0.0,0.088,52,4
-Enfield,London,479,443,371,356,617,576,202.1,0.075,0.177,43,9
-Croydon,London,466,458,380,374,510,473,190.6,0.017,0.109,44,5
+Enfield,London,479,443,371,356,617,576,202.1,0.075,0.177,44,9
+Croydon,London,466,458,380,374,510,473,190.6,0.017,0.109,45,5
 Brent,London,464,464,454,454,587,545,185.4,0.0,0.121,42,5
 Barking and Dagenham,London,460,460,361,361,480,443,176.6,0.0,0.061,44,3
 Leicester,East Midlands,457,457,433,433,482,448,181.8,0.0,0.131,41,16
 Hounslow,London,431,431,368,368,471,439,173.0,0.0,0.116,25,6
 Coventry,West Midlands,423,361,341,288,505,466,157.4,0.147,0.087,35,14
-Sheffield,Yorkshire and The Humber,416,411,326,322,484,455,166.9,0.012,0.108,36,7
+Sheffield,Yorkshire and The Humber,416,411,326,322,484,455,166.9,0.012,0.108,37,7
 Sandwell,West Midlands,389,376,307,296,413,383,152.9,0.033,0.09,27,5
 Haringey,London,388,365,303,279,444,414,161.7,0.059,0.224,28,8
 Southwark,London,387,378,306,300,375,346,162.2,0.023,0.142,48,7
@@ -78,8 +78,8 @@ Brighton and Hove,South East,218,218,208,208,288,274,90.0,0.0,0.101,14,4
 Walsall,West Midlands,216,216,232,232,315,294,87.8,0.0,0.144,17,6
 Blackburn with Darwen,North West,214,214,181,181,177,166,82.3,0.0,0.098,17,2
 South Lanarkshire,Scotland,214,214,199,199,228,216,87.2,0.0,0.098,18,7
-Central Bedfordshire,East of England,213,213,197,197,224,213,89.4,0.0,0.136,19,2
-Rotherham,Yorkshire and The Humber,211,211,181,181,192,181,89.1,0.0,0.133,21,7
+Central Bedfordshire,East of England,213,213,197,197,224,213,89.4,0.0,0.136,20,2
+Rotherham,Yorkshire and The Humber,211,211,181,181,192,181,89.1,0.0,0.133,22,7
 Solihull,West Midlands,203,188,155,149,177,168,90.1,0.074,0.163,11,1
 Warrington,North West,203,168,179,134,225,212,92.9,0.172,0.138,27,5
 Lewisham,London,202,202,218,218,302,279,83.9,0.0,0.069,14,2
@@ -126,18 +126,18 @@ Kingston upon Thames,London,148,148,163,163,183,173,62.7,0.0,0.128,17,3
 Dacorum,East of England,147,147,121,121,156,148,63.1,0.0,0.143,10,2
 Ipswich,East of England,145,101,109,69,156,145,58.7,0.303,0.103,13,1
 Dartford,South East,144,139,112,109,170,161,60.1,0.035,0.139,19,1
-Elmbridge,South East,140,140,100,100,147,141,62.5,0.0,0.236,9,3
+Elmbridge,South East,140,140,100,100,147,141,62.5,0.0,0.236,10,3
 Sevenoaks,South East,136,136,120,120,137,131,58.0,0.0,0.118,16,1
 North Tyneside,North East,134,134,88,88,143,136,56.5,0.0,0.112,19,6
 Reading,South East,134,134,115,115,180,169,52.4,0.0,0.082,13,5
 Barnsley,Yorkshire and The Humber,133,133,114,114,127,119,54.3,0.0,0.083,8,4
 Gravesham,South East,133,133,99,99,127,119,55.7,0.0,0.15,10,3
 Cherwell,South East,130,130,95,95,132,125,55.3,0.0,0.169,12,4
-Renfrewshire,Scotland,127,127,82,82,119,112,52.2,0.0,0.102,15,9
+Renfrewshire,Scotland,127,127,82,82,119,112,52.2,0.0,0.102,16,9
 Colchester,East of England,126,126,141,141,132,125,51.4,0.0,0.119,14,4
 Huntingdonshire,East of England,126,126,114,114,115,110,53.8,0.0,0.159,10,2
 Cumberland,North West,125,125,86,86,129,122,52.3,0.0,0.12,18,3
-Wealden,South East,125,113,97,90,121,116,55.8,0.096,0.152,15,2
+Wealden,South East,125,113,97,90,121,116,55.8,0.096,0.152,16,2
 Canterbury,South East,123,114,85,81,94,89,51.1,0.073,0.138,11,3
 Norwich,East of England,122,122,111,111,134,128,50.8,0.0,0.123,19,1
 Brentwood,East of England,121,121,107,107,119,114,48.9,0.0,0.074,12,1
@@ -189,7 +189,7 @@ Thanet,South East,93,93,87,87,104,98,39.6,0.0,0.172,13,4
 South Kesteven,East Midlands,92,92,66,66,109,103,40.0,0.0,0.174,12,0
 Gloucester,South West,91,91,75,75,93,88,37.2,0.0,0.099,7,2
 North Lincolnshire,Yorkshire and The Humber,91,91,86,86,81,76,37.7,0.0,0.066,12,2
-Redcar and Cleveland,North East,91,91,51,51,91,85,37.8,0.0,0.088,4,3
+Redcar and Cleveland,North East,91,91,51,51,91,85,37.8,0.0,0.088,5,3
 Crawley,South East,90,90,68,68,119,111,34.9,0.0,0.089,8,1
 Test Valley,South East,89,89,66,66,92,88,36.6,0.0,0.079,17,0
 Wychavon,West Midlands,89,89,79,79,93,88,37.7,0.0,0.124,9,1
@@ -265,10 +265,10 @@ Fylde,North West,64,60,61,54,84,80,27.9,0.062,0.109,4,1
 Teignbridge,South West,64,64,36,36,57,55,27.5,0.0,0.156,13,1
 Isle of Wight,South East,63,63,51,51,71,68,26.0,0.0,0.143,3,2
 Lancaster,North West,63,63,49,49,71,68,26.5,0.0,0.127,8,1
-Wrexham,Wales,63,63,61,61,74,70,25.7,0.0,0.127,6,1
+Wrexham,Wales,63,63,61,61,74,70,25.7,0.0,0.127,7,1
 Knowsley,North West,62,62,73,73,105,97,25.5,0.0,0.081,4,3
 North Kesteven,East Midlands,62,62,38,38,67,64,24.9,0.0,0.097,7,1
-Rushcliffe,East Midlands,62,62,63,63,70,67,28.5,0.0,0.242,6,0
+Rushcliffe,East Midlands,62,62,63,63,70,67,28.5,0.0,0.242,7,0
 Rushmoor,South East,62,62,66,66,78,74,26.4,0.0,0.21,5,1
 Chesterfield,East Midlands,61,61,38,38,84,80,24.8,0.0,0.131,11,0
 Fenland,East of England,61,61,47,47,59,55,25.1,0.0,0.082,7,3
