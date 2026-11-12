@@ -29,7 +29,7 @@ Leicester,East Midlands,398,398,,,499.0,439.0,159.9,0.0,0.161,24,0
 Coventry,West Midlands,397,318,,,497.0,432.0,142.4,0.199,0.103,27,0
 Sheffield,Yorkshire and The Humber,379,371,,,529.0,474.0,156.0,0.021,0.113,22,0
 West Northamptonshire,East Midlands,379,379,,,340.0,306.0,155.3,0.0,0.09,19,0
-Wolverhampton,West Midlands,369,369,,,279.0,246.0,146.6,0.0,0.133,41,0
+Wolverhampton,West Midlands,369,369,,,279.0,246.0,146.6,0.0,0.133,42,0
 City of London,London,358,326,,,432.0,390.0,159.6,0.089,0.313,10,0
 Cheshire East,North West,347,347,,,359.0,331.0,148.6,0.0,0.153,26,0
 Haringey,London,340,305,,,387.0,342.0,141.2,0.103,0.247,19,0
@@ -98,7 +98,7 @@ South Gloucestershire,South West,173,173,,,180.0,166.0,71.7,0.0,0.121,12,0
 Richmond upon Thames,London,171,171,,,196.0,180.0,72.9,0.0,0.111,9,0
 Thurrock,East of England,162,162,,,188.0,167.0,67.0,0.0,0.093,11,3
 Bedford,East of England,161,151,,,161.0,144.0,70.7,0.062,0.149,13,0
-Epping Forest,East of England,159,159,,,180.0,166.0,67.7,0.0,0.138,8,0
+Epping Forest,East of England,159,159,,,180.0,166.0,67.7,0.0,0.138,8,1
 Northumberland,North East,156,156,,,138.0,126.0,67.6,0.0,0.128,8,0
 Watford,East of England,155,155,,,145.0,130.0,63.7,0.0,0.135,10,0
 Basildon,East of England,154,140,,,174.0,160.0,69.7,0.091,0.136,10,4
