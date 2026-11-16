@@ -1,8 +1,8 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
 Camden,London,3325,536,3645,550,3021,2733,1117.2,0.839,0.08,367,0
-Hackney,London,2379,376,3243,600,2097,1894,1500.2,0.842,0.117,236,0
+Hackney,London,2379,376,3243,600,2097,1894,1500.2,0.842,0.117,238,0
 Islington,London,1896,277,2342,361,2310,2111,613.8,0.854,0.089,207,0
-Westminster,London,1454,695,1767,856,1575,1486,730.7,0.522,0.18,137,0
+Westminster,London,1454,695,1767,856,1575,1486,730.7,0.522,0.18,138,0
 Birmingham,West Midlands,1330,1320,1606,1591,1515,1390,529.4,0.008,0.137,105,0
 Manchester,North West,1095,894,1343,1087,1426,1315,392.6,0.184,0.106,113,0
 Newham,London,873,840,1060,1021,865,781,310.9,0.038,0.069,57,0
@@ -26,7 +26,7 @@ Wolverhampton,West Midlands,384,384,465,465,325,300,147.6,0.0,0.099,40,0
 Croydon,London,380,374,480,470,540,496,152.5,0.016,0.079,24,0
 Enfield,London,371,356,438,408,472,437,152.5,0.04,0.119,24,0
 Hounslow,London,368,368,409,409,434,400,151.1,0.0,0.133,28,0
-Barking and Dagenham,London,361,361,449,449,442,404,142.0,0.0,0.086,23,2
+Barking and Dagenham,London,361,361,449,449,442,404,142.0,0.0,0.086,24,2
 Kirklees,Yorkshire and The Humber,358,357,401,399,399,373,144.3,0.003,0.131,24,0
 Coventry,West Midlands,341,288,441,357,492,450,122.9,0.155,0.056,24,0
 City of London,London,326,305,402,361,437,409,141.4,0.064,0.215,23,0
@@ -46,7 +46,7 @@ North Yorkshire,Yorkshire and The Humber,292,281,396,360,372,352,123.1,0.038,0.1
 Havering,London,285,285,329,329,320,300,119.9,0.0,0.151,17,9
 Salford,North West,270,249,323,304,342,318,115.0,0.078,0.196,28,0
 Greenwich,London,268,267,295,287,407,372,109.5,0.004,0.112,29,0
-Milton Keynes,South East,268,267,323,323,328,308,112.4,0.004,0.179,22,0
+Milton Keynes,South East,268,267,323,323,328,308,112.4,0.004,0.179,23,0
 Stockport,North West,268,248,294,267,285,269,111.4,0.075,0.16,23,0
 Trafford,North West,260,234,285,257,260,246,112.2,0.1,0.158,19,0
 Dorset,South West,259,158,253,186,416,384,105.9,0.39,0.112,33,0
@@ -95,7 +95,7 @@ Southampton,South East,160,160,166,166,193,179,63.7,0.0,0.1,15,0
 Sefton,North West,158,158,232,232,195,180,66.4,0.0,0.152,12,0
 Epping Forest,East of England,157,157,176,176,157,149,69.1,0.0,0.229,14,0
 Solihull,West Midlands,155,149,187,177,150,142,68.2,0.039,0.168,16,0
-Sutton,London,155,155,180,180,160,151,65.9,0.0,0.11,11,0
+Sutton,London,155,155,180,180,160,151,65.9,0.0,0.11,12,0
 Northumberland,North East,154,154,134,134,150,141,65.3,0.0,0.11,18,0
 South Gloucestershire,South West,151,151,174,174,181,172,63.3,0.0,0.139,16,0
 Southend-on-Sea,East of England,149,147,174,170,172,163,63.3,0.013,0.148,15,1
@@ -254,7 +254,7 @@ East Dunbartonshire,Scotland,58,58,29,29,57,54,25.1,0.0,0.224,6,0
 Hinckley and Bosworth,East Midlands,58,58,62,62,76,72,22.9,0.0,0.121,4,0
 Mid Suffolk,East of England,58,58,63,63,52,50,24.0,0.0,0.121,3,0
 Stevenage,East of England,58,48,85,80,83,78,24.5,0.172,0.121,5,0
-South Ayrshire,Scotland,57,57,55,55,61,57,24.1,0.0,0.158,6,0
+South Ayrshire,Scotland,57,57,55,55,61,57,24.1,0.0,0.158,7,0
 South Hams,South West,57,57,75,75,69,66,25.2,0.0,0.211,7,0
 West Lancashire,North West,57,57,60,60,66,62,24.8,0.0,0.175,5,0
 Amber Valley,East Midlands,56,56,64,64,65,61,23.7,0.0,0.125,3,0
