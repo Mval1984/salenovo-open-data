@@ -45,7 +45,7 @@ Havering,London,329,329,268,268,341,313,135.9,0.0,0.116,15,7
 Merton,London,326,305,288,270,304,278,134.1,0.064,0.117,13,0
 Bromley,London,323,300,322,304,365,340,130.6,0.071,0.149,28,0
 Milton Keynes,South East,323,323,293,291,389,357,133.6,0.0,0.118,17,0
-Salford,North West,323,304,324,300,333,302,134.7,0.059,0.22,21,0
+Salford,North West,323,304,324,300,333,302,134.7,0.059,0.22,22,0
 Doncaster,Yorkshire and The Humber,318,318,297,296,289,258,99.7,0.0,0.094,10,0
 Hammersmith and Fulham,London,310,249,301,227,366,339,147.9,0.197,0.294,8,0
 Cheshire East,North West,308,308,347,347,373,347,132.5,0.0,0.166,35,0
@@ -88,7 +88,7 @@ North Lanarkshire,Scotland,211,211,214,214,179,162,84.7,0.0,0.114,9,0
 Rotherham,Yorkshire and The Humber,198,198,186,186,207,190,82.1,0.0,0.121,12,0
 Wakefield,Yorkshire and The Humber,193,193,197,197,200,181,81.0,0.0,0.14,10,0
 South Lanarkshire,Scotland,188,188,206,206,204,188,79.3,0.0,0.133,7,0
-Solihull,West Midlands,187,177,152,142,180,167,81.6,0.053,0.219,10,0
+Solihull,West Midlands,187,177,152,142,180,167,81.6,0.053,0.219,11,0
 Tameside,North West,187,187,175,175,210,190,75.7,0.0,0.128,16,0
 Richmond upon Thames,London,183,183,171,171,194,180,78.3,0.0,0.131,12,0
 Preston,North West,182,182,188,188,191,173,73.3,0.0,0.143,13,0
@@ -104,7 +104,7 @@ Dartford,South East,170,161,144,131,136,125,70.4,0.053,0.165,17,0
 Cambridge,East of England,169,136,149,128,206,188,79.7,0.195,0.101,10,0
 Fife,Scotland,169,169,132,132,140,128,70.7,0.0,0.118,10,0
 Southampton,South East,166,166,142,142,207,186,65.9,0.0,0.084,14,0
-Blackburn with Darwen,North West,163,163,194,194,180,163,62.2,0.0,0.08,10,0
+Blackburn with Darwen,North West,163,163,194,194,180,163,62.2,0.0,0.08,11,0
 Wokingham,South East,163,163,143,143,155,145,68.2,0.0,0.123,18,0
 Basildon,East of England,161,136,154,140,153,142,76.4,0.155,0.137,9,1
 Sunderland,North East,160,160,151,151,147,133,67.3,0.0,0.106,8,0
@@ -122,7 +122,7 @@ Norwich,East of England,152,152,135,135,118,110,61.7,0.0,0.118,8,0
 Hertsmere,East of England,147,147,145,145,154,144,63.7,0.0,0.197,10,0
 Chelmsford,East of England,146,146,152,152,146,135,62.7,0.0,0.137,10,2
 Elmbridge,South East,144,144,122,122,126,118,62.0,0.0,0.09,8,0
-Stockton-on-Tees,North East,139,136,137,137,161,148,58.6,0.022,0.165,9,0
+Stockton-on-Tees,North East,139,136,137,137,161,148,58.6,0.022,0.165,10,0
 Portsmouth,South East,138,138,150,150,170,154,57.5,0.0,0.152,9,0
 Harlow,East of England,136,104,109,90,117,109,69.9,0.235,0.11,14,3
 Northumberland,North East,134,134,156,156,154,142,57.6,0.0,0.142,10,0
@@ -134,7 +134,7 @@ Warwick,West Midlands,129,108,128,109,137,129,51.9,0.163,0.132,20,0
 Ashford,South East,127,118,102,99,96,89,56.0,0.071,0.126,12,0
 Cumberland,North West,127,127,106,106,146,135,55.5,0.0,0.165,13,0
 Reigate and Banstead,South East,126,126,121,121,143,133,54.4,0.0,0.159,8,0
-Blackpool,North West,125,125,97,97,102,91,47.3,0.0,0.048,14,0
+Blackpool,North West,125,125,97,97,102,91,47.3,0.0,0.048,15,0
 East Hertfordshire,East of England,125,125,107,107,114,107,54.3,0.0,0.128,9,0
 Maidstone,South East,125,125,119,119,153,141,53.1,0.0,0.16,17,0
 Rhondda Cynon Taf,Wales,124,122,104,101,100,91,50.6,0.016,0.105,11,0
@@ -181,7 +181,7 @@ South Oxfordshire,South East,96,96,77,77,92,86,42.7,0.0,0.115,13,0
 Woking,South East,95,95,78,78,85,78,39.3,0.0,0.084,5,0
 Bromsgrove,West Midlands,94,94,67,67,83,78,39.1,0.0,0.17,5,0
 Cherwell,South East,94,94,118,118,144,133,40.7,0.0,0.149,8,0
-Chorley,North West,94,94,72,72,75,70,40.2,0.0,0.17,15,0
+Chorley,North West,94,94,72,72,75,70,40.2,0.0,0.17,16,0
 North Lincolnshire,Yorkshire and The Humber,94,94,90,90,95,86,39.4,0.0,0.149,5,0
 Renfrewshire,Scotland,94,94,108,108,139,127,39.4,0.0,0.16,4,0
 Bath and North East Somerset,South West,93,93,99,99,107,100,39.5,0.0,0.075,10,0
