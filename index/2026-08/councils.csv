@@ -14,7 +14,7 @@ Leeds,Yorkshire and The Humber,613,600,739,699,738,686,261.3,0.021,0.135,47,0
 Hillingdon,London,601,472,635,482,605,555,216.9,0.215,0.118,44,0
 Barnet,London,567,479,712,634,678,634,232.5,0.155,0.194,38,0
 Waltham Forest,London,553,391,648,440,480,442,222.3,0.293,0.092,54,0
-Bradford,Yorkshire and The Humber,495,488,515,506,556,514,194.1,0.014,0.107,27,0
+Bradford,Yorkshire and The Humber,495,488,515,506,556,514,194.1,0.014,0.107,29,0
 Liverpool,North West,482,451,494,463,556,512,198.4,0.064,0.12,50,0
 City of Edinburgh,Scotland,475,416,477,410,604,560,201.8,0.124,0.139,43,0
 Harrow,London,466,429,599,570,558,526,198.6,0.079,0.197,26,0
@@ -31,10 +31,10 @@ Kirklees,Yorkshire and The Humber,358,357,401,399,399,373,144.3,0.003,0.131,25,0
 Coventry,West Midlands,341,288,441,357,492,450,122.9,0.155,0.056,24,0
 City of London,London,326,305,402,361,437,409,141.4,0.064,0.215,25,0
 Sheffield,Yorkshire and The Humber,326,322,399,397,405,377,131.7,0.012,0.095,17,0
-West Northamptonshire,East Midlands,314,314,344,344,349,326,129.7,0.0,0.111,19,0
+West Northamptonshire,East Midlands,314,314,344,344,349,326,129.7,0.0,0.111,20,0
 Sandwell,West Midlands,307,296,340,327,312,286,123.0,0.036,0.127,20,0
 Lambeth,London,306,306,306,306,375,346,128.5,0.0,0.144,26,0
-Luton,East of England,306,306,355,355,348,317,120.0,0.0,0.078,30,0
+Luton,East of England,306,306,355,355,348,317,120.0,0.0,0.078,31,0
 Southwark,London,306,300,331,326,367,335,130.0,0.02,0.134,21,0
 Bolton,North West,304,283,376,347,386,361,125.6,0.069,0.112,24,0
 Haringey,London,303,279,466,438,366,338,125.9,0.079,0.221,16,0
@@ -306,7 +306,7 @@ Redditch,West Midlands,46,46,49,49,57,53,18.9,0.0,0.174,5,0
 Stirling,Scotland,46,46,46,46,59,56,19.1,0.0,0.13,1,0
 Tewkesbury,South West,45,45,59,59,71,68,19.1,0.0,0.2,3,0
 Hartlepool,North East,44,44,54,54,55,51,19.2,0.0,0.182,3,0
-Lewes,South East,44,44,49,49,39,37,18.5,0.0,0.114,1,0
+Lewes,South East,44,44,49,49,39,37,18.5,0.0,0.114,2,0
 Malvern Hills,West Midlands,44,44,41,41,38,36,19.2,0.0,0.136,5,0
 Mansfield,East Midlands,44,44,59,59,49,45,18.8,0.0,0.091,6,0
 Great Yarmouth,East of England,43,43,53,53,49,45,17.7,0.0,0.163,4,0
