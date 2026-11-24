@@ -1,8 +1,8 @@
 council,region,incorporated,own_address,previous_month,previous_month_own_address,year_earlier_estimated,year_earlier_still_on_register,expected_trade,agent_share,property_share,verified_websites_so_far,food_premises_so_far
-Camden,London,3625,571,4073,578,3879,3586,1211.5,0.842,0.079,460,3
-Hackney,London,2636,425,2683,418,2533,2338,1608.1,0.839,0.124,244,5
+Camden,London,3625,571,4073,578,3879,3586,1211.5,0.842,0.079,461,3
+Hackney,London,2636,425,2683,418,2533,2338,1608.1,0.839,0.124,245,5
 Islington,London,2333,328,2348,341,2523,2350,750.2,0.859,0.085,281,3
-Westminster,London,1721,876,1746,792,1992,1901,852.4,0.491,0.188,111,7
+Westminster,London,1721,876,1746,792,1992,1901,852.4,0.491,0.188,113,7
 Birmingham,West Midlands,1584,1574,1563,1550,1711,1599,641.1,0.006,0.152,101,43
 Manchester,North West,1398,1124,1329,1060,1603,1504,484.5,0.196,0.107,94,13
 Tower Hamlets,London,1194,1014,1084,914,978,920,468.0,0.151,0.088,72,17
@@ -33,8 +33,8 @@ Bolton,North West,414,385,362,337,416,395,177.1,0.07,0.118,27,7
 Kirklees,Yorkshire and The Humber,398,398,378,377,379,359,159.5,0.0,0.171,33,2
 Doncaster,Yorkshire and The Humber,384,384,345,345,299,280,109.8,0.0,0.078,23,4
 Coventry,West Midlands,371,333,423,361,510,475,147.8,0.102,0.108,24,10
-North Yorkshire,Yorkshire and The Humber,370,311,355,345,492,470,139.9,0.159,0.092,19,7
-Sheffield,Yorkshire and The Humber,366,360,416,411,477,451,146.1,0.016,0.107,23,11
+North Yorkshire,Yorkshire and The Humber,370,311,355,345,492,470,139.9,0.159,0.092,20,7
+Sheffield,Yorkshire and The Humber,366,360,416,411,477,451,146.1,0.016,0.107,24,11
 Sandwell,West Midlands,363,349,389,376,387,362,146.5,0.039,0.121,17,8
 Luton,East of England,358,358,375,375,428,398,139.5,0.0,0.084,26,9
 Wandsworth,London,347,347,296,296,411,388,145.2,0.0,0.121,36,4
@@ -285,7 +285,7 @@ Midlothian,Scotland,57,57,55,55,53,50,24.5,0.0,0.105,5,1
 West Lancashire,North West,57,57,68,68,77,73,24.6,0.0,0.193,5,1
 Wyre,North West,56,56,69,69,88,84,23.9,0.0,0.196,4,2
 Boston,East Midlands,55,55,45,45,43,40,22.2,0.0,0.036,3,0
-Oadby and Wigston,East Midlands,55,55,45,45,66,62,23.3,0.0,0.145,6,1
+Oadby and Wigston,East Midlands,55,55,45,45,66,62,23.3,0.0,0.145,7,1
 Rochford,East of England,55,55,55,55,68,65,22.9,0.0,0.164,8,0
 Dover,South East,54,54,58,58,55,52,21.5,0.0,0.093,4,2
 Hartlepool,North East,54,54,39,39,56,53,22.8,0.0,0.074,3,3
@@ -328,7 +328,7 @@ Tamworth,West Midlands,42,42,39,39,45,43,16.9,0.0,0.071,3,0
 Adur,South East,41,41,45,45,45,43,16.6,0.0,0.171,3,0
 Mid and East Antrim,Northern Ireland,41,41,46,46,45,43,16.9,0.0,0.098,3,4
 Torfaen,Wales,41,41,29,29,49,45,16.8,0.0,0.122,4,1
-Gosport,South East,39,39,36,36,42,40,15.3,0.0,0.051,2,3
+Gosport,South East,39,39,36,36,42,40,15.3,0.0,0.051,3,3
 North Devon,South West,39,39,38,38,57,55,16.5,0.0,0.179,3,2
 Denbighshire,Wales,38,38,71,71,60,57,15.6,0.0,0.053,3,1
 West Dunbartonshire,Scotland,38,38,43,43,46,43,15.6,0.0,0.053,2,1
