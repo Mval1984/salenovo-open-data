@@ -52,7 +52,7 @@ Cheshire East,North West,308,308,347,347,373,347,132.5,0.0,0.166,35,0
 Lambeth,London,306,306,297,297,372,333,130.9,0.0,0.118,22,0
 "Herefordshire, County of",West Midlands,302,123,283,141,424,397,122.8,0.593,0.063,38,0
 Greenwich,London,295,287,328,325,518,459,115.8,0.027,0.088,22,0
-Nottingham,East Midlands,294,294,284,284,328,296,119.0,0.0,0.133,12,0
+Nottingham,East Midlands,294,294,284,284,328,296,119.0,0.0,0.133,13,0
 Stockport,North West,294,267,236,213,348,322,123.1,0.092,0.15,27,0
 Oldham,North West,291,291,266,266,299,269,113.9,0.0,0.134,32,0
 County Durham,North East,287,287,239,239,302,278,116.4,0.0,0.066,20,0
@@ -107,7 +107,7 @@ Southampton,South East,166,166,142,142,207,186,65.9,0.0,0.084,14,0
 Blackburn with Darwen,North West,163,163,194,194,180,163,62.2,0.0,0.08,11,0
 Wokingham,South East,163,163,143,143,155,145,68.2,0.0,0.123,18,0
 Basildon,East of England,161,136,154,140,153,142,76.4,0.155,0.137,9,1
-Sunderland,North East,160,160,151,151,147,133,67.3,0.0,0.106,8,0
+Sunderland,North East,160,160,151,151,147,133,67.3,0.0,0.106,9,0
 Middlesbrough,North East,158,158,137,137,158,140,63.5,0.0,0.089,11,0
 Shropshire,West Midlands,158,158,134,134,171,159,67.8,0.0,0.19,10,0
 Kingston upon Thames,London,157,157,153,153,177,163,65.6,0.0,0.153,11,0
@@ -116,7 +116,7 @@ Windsor and Maidenhead,South East,157,157,140,140,160,149,67.9,0.0,0.134,15,0
 Aberdeen City,Scotland,156,156,125,125,154,142,65.2,0.0,0.109,11,0
 Ipswich,East of England,156,118,126,84,123,110,64.3,0.244,0.096,8,0
 Calderdale,Yorkshire and The Humber,155,155,133,133,142,128,62.5,0.0,0.142,18,0
-Reading,South East,155,155,139,139,166,151,61.8,0.0,0.097,14,0
+Reading,South East,155,155,139,139,166,151,61.8,0.0,0.097,15,0
 Colchester,East of England,152,152,115,115,136,125,63.4,0.0,0.118,9,2
 Norwich,East of England,152,152,135,135,118,110,61.7,0.0,0.118,8,0
 Hertsmere,East of England,147,147,145,145,154,144,63.7,0.0,0.197,10,0
@@ -310,7 +310,7 @@ Powys,Wales,49,49,37,37,47,44,20.4,0.0,0.122,4,0
 Redditch,West Midlands,49,49,47,47,47,43,20.6,0.0,0.143,5,0
 Rossendale,North West,49,49,43,43,56,51,18.8,0.0,0.02,8,0
 Derry City and Strabane,Northern Ireland,48,48,63,63,68,62,20.1,0.0,0.146,3,0
-Forest of Dean,South West,48,48,34,34,50,46,19.9,0.0,0.104,7,0
+Forest of Dean,South West,48,48,34,34,50,46,19.9,0.0,0.104,8,0
 Scottish Borders,Scotland,48,48,38,38,70,65,20.7,0.0,0.104,2,0
 Angus,Scotland,47,47,42,42,49,45,20.0,0.0,0.213,2,0
 Fenland,East of England,47,47,38,38,53,48,20.0,0.0,0.213,1,0
